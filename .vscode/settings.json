@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tlpi_hdr.h": "c",
+        "error_functions.h": "c",
+        "stat.h": "c",
+        "unistd.h": "c"
+    }
+}
