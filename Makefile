@@ -12,7 +12,7 @@ LIB_DIR = lib
 OBJ_DIR = obj
 
 # Source files (change these to compile other files)
-SRC_FILES = $(SRC_DIR)/5-2.c $(LIB_DIR)/error_functions.c
+SRC_FILES = $(SRC_DIR)/5-7.c $(LIB_DIR)/error_functions.c
 
 # Target executable
 TARGET = demo
