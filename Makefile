@@ -7,12 +7,12 @@ CC = gcc
 CFLAGS = -Wall -Wextra -Ilib
 
 # Directories
-SRC_DIR = C_5
+SRC_DIR = C_6
 LIB_DIR = lib
 OBJ_DIR = obj
 
 # Source files (change these to compile other files)
-SRC_FILES = $(SRC_DIR)/5-7.c $(LIB_DIR)/error_functions.c
+SRC_FILES = $(SRC_DIR)/display_env.c $(LIB_DIR)/error_functions.c
 
 # Target executable
 TARGET = demo

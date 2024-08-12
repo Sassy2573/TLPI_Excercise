@@ -5,3 +5,4 @@ TLPI_Excercise.code-workspace
 obj/5-1.o
 obj/5-2.o
 obj/error_functions.o
+obj/display_env.o
